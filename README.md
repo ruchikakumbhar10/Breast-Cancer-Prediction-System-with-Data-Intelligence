@@ -1,7 +1,7 @@
 # Breast-Cancer-Prediction-System-with-Data-Intelligence
 Website Link : https://v0-breast-cancer-prediction-website-seven.vercel.app
 
-📌 ## Project Overview
+## Project Overview
 
 Breast cancer is one of the leading causes of cancer-related deaths among women worldwide. A major challenge in healthcare systems is late-stage diagnosis, which significantly reduces survival rates. This project focuses on building a data-driven, intelligent prediction system that helps estimate the probability of breast cancer at an early stage using clinical patient data.
 
