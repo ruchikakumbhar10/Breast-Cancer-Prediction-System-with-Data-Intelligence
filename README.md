@@ -7,7 +7,7 @@ Breast cancer is one of the leading causes of cancer-related deaths among women 
 
 The system is developed as a full-stack web application using the MERN stack and integrated with a machine learning model through a Python-based API. Along with prediction, the application provides data intelligence dashboards, an AI-powered chatbot, and global data analysis to better understand the severity and patterns of breast cancer cases.
 
-🎯 Problem Statement & Approach
+## 🎯 Problem Statement & Approach
 
 Breast cancer diagnosis often depends on manual medical analysis, which can be time-consuming and resource-intensive
 
