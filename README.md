@@ -72,9 +72,9 @@ Decision Tree Classifier
 
 - Performed:
 
-Data cleaning and preprocessing
+Data cleaning and Preprocessing
 
-Feature selection and scaling
+Feature selection and Scaling
 
 Model evaluation and comparison
 
