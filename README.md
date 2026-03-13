@@ -90,7 +90,7 @@ Built using Chatbase AI
 
 - Assists users with:
 
-Understanding breast cancer basics
+Understanding Breast Cancer basics
 
 Interpreting prediction results
 
