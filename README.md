@@ -27,7 +27,7 @@ The system is developed as a full-stack web application using the MERN stack and
 
 ## 🖥️ Frontend Development
 
-The frontend is designed to be simple, intuitive, and accessible for users with no technical background.
+The Frontend is designed to be simple, intuitive, and accessible for users with no technical background.
 
 Developed using React.js for dynamic and responsive UI
 
