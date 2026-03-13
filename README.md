@@ -56,7 +56,7 @@ Built using Node.js and Express.js to handle application logic
 
 Designed secure RESTful APIs for data flow between frontend, ML model, and database
 
-Stored patient and prediction data using MongoDB, enabling scalable and structured data management
+Stored patient and prediction data using MongoDB, enabling scalable and structured Data Management
 
 - Machine Learning Models:
 
