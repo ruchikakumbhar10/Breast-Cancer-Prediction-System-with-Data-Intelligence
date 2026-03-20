@@ -76,7 +76,7 @@ Data cleaning and Preprocessing
 
 Feature selection and Scaling
 
-Model evaluation and comparison
+Model evaluation and Comparison
 
 Achieved ~95% prediction accuracy using the best-performing classification model
 
