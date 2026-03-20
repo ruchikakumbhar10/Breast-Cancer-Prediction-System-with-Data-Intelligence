@@ -124,7 +124,7 @@ Helped connect machine learning predictions with real-world healthcare impact
 
 Containerized the application using Docker, ensuring consistent environments across Development and Deployment
 
-Deployed backend services and ML API on cloud platforms (Render / AWS / Heroku)
+Deployed backend services and ML API on Cloud Platforms (Render / AWS / Heroku)
 
 - Ensured:
 
