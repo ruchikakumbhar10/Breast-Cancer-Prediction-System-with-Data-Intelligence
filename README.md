@@ -54,7 +54,7 @@ Designed dashboards that improve data understanding by over 60% compared to raw 
 
 Built using Node.js and Express.js to handle application logic
 
-Designed secure RESTful APIs for data flow between Frontend, ML model, and database
+Designed secure RESTful APIs for data flow between Frontend, ML model, and Database
 
 Stored patient and prediction data using MongoDB, enabling scalable and structured Data Management
 
