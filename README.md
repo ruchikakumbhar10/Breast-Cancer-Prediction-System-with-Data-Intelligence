@@ -122,7 +122,7 @@ Helped connect machine learning predictions with real-world healthcare impact
 
 ## 🚀 Deployment & Scalability
 
-Containerized the application using Docker, ensuring consistent environments across development and deployment
+Containerized the application using Docker, ensuring consistent environments across Development and Deployment
 
 Deployed backend services and ML API on cloud platforms (Render / AWS / Heroku)
 
