@@ -156,3 +156,5 @@ Machine Learning: Python, Scikit-learn, Pandas, NumPy
 AI Tools: Chatbase AI
 Visualization: Chart.js, D3.js
 Deployment: Docker, Cloud Platforms
+
+👩‍💻 Author
