@@ -13,7 +13,7 @@ The system is developed as a full-stack web application using the MERN stack and
 
 - Lack of early prediction tools leads to delayed detection and higher mortality rates.
 
-- Limited access to data insights makes it difficult to understand risk patterns across regions
+- Limited access to data insights makes it difficult to understand risk patterns across regions.
 
 ## Our Approach:
 
