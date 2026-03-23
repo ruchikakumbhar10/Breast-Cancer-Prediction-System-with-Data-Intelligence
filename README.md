@@ -17,7 +17,7 @@ The system is developed as a full-stack web application using the MERN stack and
 
 ## Our Approach:
 
-- Use historical patient data (569 records, 30+ clinical features) to train machine learning models
+- Use historical patient data (569 records, 30+ clinical features) to train machine learning models.
 
 - Build a user-friendly web interface for non-technical users
 
