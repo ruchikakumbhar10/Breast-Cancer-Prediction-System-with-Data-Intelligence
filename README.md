@@ -11,7 +11,7 @@ The system is developed as a full-stack web application using the MERN stack and
 
 - Breast cancer diagnosis often depends on manual Medical Analysis, which can be time-consuming and resource-intensive.
 
-- Lack of early prediction tools leads to delayed detection and higher mortality rates
+- Lack of early prediction tools leads to delayed detection and higher mortality rates.
 
 - Limited access to data insights makes it difficult to understand risk patterns across regions
 
