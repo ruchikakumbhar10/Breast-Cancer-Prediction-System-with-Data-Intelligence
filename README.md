@@ -112,7 +112,7 @@ Mortality statistics
 
 Identified countries with higher diagnosis and death counts
 
-Presented insights using visual dashboards to:
+Presented Insights using visual dashboards to:
 
 Highlight global risk patterns
 
